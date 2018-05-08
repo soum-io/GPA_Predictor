@@ -107,3 +107,6 @@ with open('filtered.csv','r', newline='') as csvfile:
             writer.writerow([row['course'], row['teacher'],
                   row['year'], float(row['year']) - float(professor_info[row['teacher']]), 
                   row['gpa']])
+    
+# remove filtered.csv as it is not needed anymore
+os.remove("filtered.csv")

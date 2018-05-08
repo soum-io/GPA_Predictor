@@ -11,7 +11,10 @@ only returns first letter of first name for each teacher.
 import pandas as pd
 import numpy as np
 
-
+# remove duplicate data entries from course_teacher.csv if they exist
+csv = pd.read_csv("future_courses/course_teacher.csv")
+csv = csv.drop_duplicates()
+csv.to_csv("course_teacher_no_dup.csv", index = False)
 
 # create dictionary of teacher names in future course data with teacher names
 # from previous gpa filtered data. Note that only the first letter of the first
@@ -32,7 +35,6 @@ prof_major_dict = {} # dict that will be used for teacher - course pairing
 orig_data = pd.read_csv("filteredComplete.csv")
 for index, row in orig_data.iterrows():
     if(pd.isnull(orig_data.loc[index,"teacher"])):
-        print(index)
         continue
     space_idx = row["teacher"].find(' ')
     shortned_name = row["teacher"][:space_idx+2]
@@ -106,7 +108,9 @@ for index, row in new_data.iterrows():
         
 # create new filed with correctly formatted data
 new_data.to_csv("course_teacher_full.csv", index = False)       
-    
+  
+#delete course_teacher_no_dup.csv, as it is no longer needed
+os.remove("course_teacher_no_dup.csv")  
 
     
     

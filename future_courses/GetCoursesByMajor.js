@@ -65,7 +65,7 @@ fs.readFile(data_file, 'utf8', function (err, data) {
       var first_part = "https://courses.illinois.edu/cisapp/explorer/schedule/2018/fall/"
       var second_part = ".xml?mode=cascade"
       var url_major = first_part + abr + second_part
-      var major_file_path = "C:/Users/mikes/Desktop/GPA_Predictor/future_courses/MajorsData/"+abr+ ".json"
+      var major_file_path =__dirname+"/MajorsData/"+abr+ ".json"
       xmlToJson(url_major, callback, major_file_path)
       console.log(url_major)
     })

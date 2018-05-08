@@ -52,9 +52,10 @@ function callback(err, data, path) {
 }
 
 // url for the years data that you want. Simply update year if needed in the url
+
 var url1 = 'https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall.xml'
 
 // file path for data to go
-var filePath = "C:/Users/mikes/Desktop/GPA_Predictor/future_courses/MajorData.json";
+var filePath = __dirname+"/MajorData.json";
 
 xmlToJson(url1,callback, filePath);
