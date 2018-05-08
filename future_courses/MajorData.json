@@ -1,0 +1,1318 @@
+{
+  "ns2:term": {
+    "$": {
+      "xmlns:ns2": "http://rest.cis.illinois.edu",
+      "id": "120188"
+    },
+    "parents": [
+      {
+        "calendarYear": [
+          {
+            "_": "2018",
+            "$": {
+              "id": "2018",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018.xml"
+            }
+          }
+        ]
+      }
+    ],
+    "label": [
+      "Fall 2018"
+    ],
+    "subjects": [
+      {
+        "subject": [
+          {
+            "_": "Asian American Studies",
+            "$": {
+              "id": "AAS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AAS.xml"
+            }
+          },
+          {
+            "_": "Agricultural and Biological Engineering",
+            "$": {
+              "id": "ABE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ABE.xml"
+            }
+          },
+          {
+            "_": "Accountancy",
+            "$": {
+              "id": "ACCY",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ACCY.xml"
+            }
+          },
+          {
+            "_": "Agricultural and Consumer Economics",
+            "$": {
+              "id": "ACE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ACE.xml"
+            }
+          },
+          {
+            "_": "Agricultural, Consumer and Environmental Sciences",
+            "$": {
+              "id": "ACES",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ACES.xml"
+            }
+          },
+          {
+            "_": "Advertising",
+            "$": {
+              "id": "ADV",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ADV.xml"
+            }
+          },
+          {
+            "_": "Aerospace Engineering",
+            "$": {
+              "id": "AE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AE.xml"
+            }
+          },
+          {
+            "_": "Air Force Aerospace Studies",
+            "$": {
+              "id": "AFAS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AFAS.xml"
+            }
+          },
+          {
+            "_": "African American Studies",
+            "$": {
+              "id": "AFRO",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AFRO.xml"
+            }
+          },
+          {
+            "_": "African Studies",
+            "$": {
+              "id": "AFST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AFST.xml"
+            }
+          },
+          {
+            "_": "Agricultural Communications",
+            "$": {
+              "id": "AGCM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AGCM.xml"
+            }
+          },
+          {
+            "_": "Agricultural Education",
+            "$": {
+              "id": "AGED",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AGED.xml"
+            }
+          },
+          {
+            "_": "Applied Health Sciences Courses",
+            "$": {
+              "id": "AHS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AHS.xml"
+            }
+          },
+          {
+            "_": "American Indian Studies",
+            "$": {
+              "id": "AIS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/AIS.xml"
+            }
+          },
+          {
+            "_": "Animal Sciences",
+            "$": {
+              "id": "ANSC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ANSC.xml"
+            }
+          },
+          {
+            "_": "Anthropology",
+            "$": {
+              "id": "ANTH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ANTH.xml"
+            }
+          },
+          {
+            "_": "Arabic",
+            "$": {
+              "id": "ARAB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARAB.xml"
+            }
+          },
+          {
+            "_": "Architecture",
+            "$": {
+              "id": "ARCH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARCH.xml"
+            }
+          },
+          {
+            "_": "Art",
+            "$": {
+              "id": "ART",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ART.xml"
+            }
+          },
+          {
+            "_": "Art--Design",
+            "$": {
+              "id": "ARTD",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARTD.xml"
+            }
+          },
+          {
+            "_": "Art--Education",
+            "$": {
+              "id": "ARTE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARTE.xml"
+            }
+          },
+          {
+            "_": "Art--Foundation",
+            "$": {
+              "id": "ARTF",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARTF.xml"
+            }
+          },
+          {
+            "_": "Art--History",
+            "$": {
+              "id": "ARTH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARTH.xml"
+            }
+          },
+          {
+            "_": "Art--Studio",
+            "$": {
+              "id": "ARTS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ARTS.xml"
+            }
+          },
+          {
+            "_": "Actuarial Science and Risk Management",
+            "$": {
+              "id": "ASRM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ASRM.xml"
+            }
+          },
+          {
+            "_": "Asian Studies",
+            "$": {
+              "id": "ASST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ASST.xml"
+            }
+          },
+          {
+            "_": "Astronomy",
+            "$": {
+              "id": "ASTR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ASTR.xml"
+            }
+          },
+          {
+            "_": "Atmospheric Sciences",
+            "$": {
+              "id": "ATMS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ATMS.xml"
+            }
+          },
+          {
+            "_": "Business Administration",
+            "$": {
+              "id": "BADM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BADM.xml"
+            }
+          },
+          {
+            "_": "Basque",
+            "$": {
+              "id": "BASQ",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BASQ.xml"
+            }
+          },
+          {
+            "_": "Bosnian-Croatian-Serbian",
+            "$": {
+              "id": "BCS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BCS.xml"
+            }
+          },
+          {
+            "_": "Biochemistry",
+            "$": {
+              "id": "BIOC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BIOC.xml"
+            }
+          },
+          {
+            "_": "Bioengineering",
+            "$": {
+              "id": "BIOE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BIOE.xml"
+            }
+          },
+          {
+            "_": "Biology",
+            "$": {
+              "id": "BIOL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BIOL.xml"
+            }
+          },
+          {
+            "_": "Biophysics",
+            "$": {
+              "id": "BIOP",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BIOP.xml"
+            }
+          },
+          {
+            "_": "Biomedical Sciences and Engineering",
+            "$": {
+              "id": "BSE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BSE.xml"
+            }
+          },
+          {
+            "_": "Business and Technical Writing",
+            "$": {
+              "id": "BTW",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BTW.xml"
+            }
+          },
+          {
+            "_": "Business",
+            "$": {
+              "id": "BUS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/BUS.xml"
+            }
+          },
+          {
+            "_": "Catalan",
+            "$": {
+              "id": "CATL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CATL.xml"
+            }
+          },
+          {
+            "_": "Comparative Biosciences",
+            "$": {
+              "id": "CB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CB.xml"
+            }
+          },
+          {
+            "_": "Cell and Developmental Biology",
+            "$": {
+              "id": "CDB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CDB.xml"
+            }
+          },
+          {
+            "_": "Civil and Environmental Engineering",
+            "$": {
+              "id": "CEE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CEE.xml"
+            }
+          },
+          {
+            "_": "Chemical and Biomolecular Engineering",
+            "$": {
+              "id": "CHBE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CHBE.xml"
+            }
+          },
+          {
+            "_": "Chemistry",
+            "$": {
+              "id": "CHEM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CHEM.xml"
+            }
+          },
+          {
+            "_": "Chinese",
+            "$": {
+              "id": "CHIN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CHIN.xml"
+            }
+          },
+          {
+            "_": "Community Health",
+            "$": {
+              "id": "CHLH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CHLH.xml"
+            }
+          },
+          {
+            "_": "Campus Honors Program Courses",
+            "$": {
+              "id": "CHP",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CHP.xml"
+            }
+          },
+          {
+            "_": "Curriculum and Instruction",
+            "$": {
+              "id": "CI",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CI.xml"
+            }
+          },
+          {
+            "_": "Committee on Inst Cooperation",
+            "$": {
+              "id": "CIC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CIC.xml"
+            }
+          },
+          {
+            "_": "Classical Civilization",
+            "$": {
+              "id": "CLCV",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CLCV.xml"
+            }
+          },
+          {
+            "_": "Clinical Sciences and Engineering",
+            "$": {
+              "id": "CLE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CLE.xml"
+            }
+          },
+          {
+            "_": "Communication",
+            "$": {
+              "id": "CMN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CMN.xml"
+            }
+          },
+          {
+            "_": "Crop Sciences",
+            "$": {
+              "id": "CPSC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CPSC.xml"
+            }
+          },
+          {
+            "_": "Computer Science",
+            "$": {
+              "id": "CS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CS.xml"
+            }
+          },
+          {
+            "_": "Computational Science and Engineering",
+            "$": {
+              "id": "CSE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CSE.xml"
+            }
+          },
+          {
+            "_": "Creative Writing",
+            "$": {
+              "id": "CW",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CW.xml"
+            }
+          },
+          {
+            "_": "Comparative and World Literature",
+            "$": {
+              "id": "CWL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CWL.xml"
+            }
+          },
+          {
+            "_": "Czech",
+            "$": {
+              "id": "CZCH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/CZCH.xml"
+            }
+          },
+          {
+            "_": "Dance",
+            "$": {
+              "id": "DANC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/DANC.xml"
+            }
+          },
+          {
+            "_": "East Asian Language and Culture",
+            "$": {
+              "id": "EALC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EALC.xml"
+            }
+          },
+          {
+            "_": "Electrical and Computer Engineering",
+            "$": {
+              "id": "ECE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ECE.xml"
+            }
+          },
+          {
+            "_": "Economics",
+            "$": {
+              "id": "ECON",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ECON.xml"
+            }
+          },
+          {
+            "_": "Educational Practice",
+            "$": {
+              "id": "EDPR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EDPR.xml"
+            }
+          },
+          {
+            "_": "Education",
+            "$": {
+              "id": "EDUC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EDUC.xml"
+            }
+          },
+          {
+            "_": "English as an International Language",
+            "$": {
+              "id": "EIL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EIL.xml"
+            }
+          },
+          {
+            "_": "Engineering",
+            "$": {
+              "id": "ENG",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENG.xml"
+            }
+          },
+          {
+            "_": "Engineering Honors",
+            "$": {
+              "id": "ENGH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENGH.xml"
+            }
+          },
+          {
+            "_": "English",
+            "$": {
+              "id": "ENGL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENGL.xml"
+            }
+          },
+          {
+            "_": "Environmental Sustainability",
+            "$": {
+              "id": "ENSU",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENSU.xml"
+            }
+          },
+          {
+            "_": "Entomology",
+            "$": {
+              "id": "ENT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENT.xml"
+            }
+          },
+          {
+            "_": "Environmental Studies",
+            "$": {
+              "id": "ENVS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ENVS.xml"
+            }
+          },
+          {
+            "_": "Educational Organization and Leadership",
+            "$": {
+              "id": "EOL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EOL.xml"
+            }
+          },
+          {
+            "_": "Education Policy, Organization and Leadership",
+            "$": {
+              "id": "EPOL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EPOL.xml"
+            }
+          },
+          {
+            "_": "Educational Policy Studies",
+            "$": {
+              "id": "EPS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EPS.xml"
+            }
+          },
+          {
+            "_": "Educational Psychology",
+            "$": {
+              "id": "EPSY",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EPSY.xml"
+            }
+          },
+          {
+            "_": "Earth, Society, and Environment",
+            "$": {
+              "id": "ESE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ESE.xml"
+            }
+          },
+          {
+            "_": "English as a Second Language",
+            "$": {
+              "id": "ESL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ESL.xml"
+            }
+          },
+          {
+            "_": "European Union Studies",
+            "$": {
+              "id": "EURO",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/EURO.xml"
+            }
+          },
+          {
+            "_": "Fine and Applied Arts",
+            "$": {
+              "id": "FAA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/FAA.xml"
+            }
+          },
+          {
+            "_": "Finance",
+            "$": {
+              "id": "FIN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/FIN.xml"
+            }
+          },
+          {
+            "_": "Foreign Language Teacher Education",
+            "$": {
+              "id": "FLTE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/FLTE.xml"
+            }
+          },
+          {
+            "_": "French",
+            "$": {
+              "id": "FR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/FR.xml"
+            }
+          },
+          {
+            "_": "Food Science and Human Nutrition",
+            "$": {
+              "id": "FSHN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/FSHN.xml"
+            }
+          },
+          {
+            "_": "Graduate College",
+            "$": {
+              "id": "GC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GC.xml"
+            }
+          },
+          {
+            "_": "Grand Challenge Learning",
+            "$": {
+              "id": "GCL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GCL.xml"
+            }
+          },
+          {
+            "_": "Geography",
+            "$": {
+              "id": "GEOG",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GEOG.xml"
+            }
+          },
+          {
+            "_": "Geology",
+            "$": {
+              "id": "GEOL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GEOL.xml"
+            }
+          },
+          {
+            "_": "German",
+            "$": {
+              "id": "GER",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GER.xml"
+            }
+          },
+          {
+            "_": "Global Studies",
+            "$": {
+              "id": "GLBL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GLBL.xml"
+            }
+          },
+          {
+            "_": "Germanic",
+            "$": {
+              "id": "GMC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GMC.xml"
+            }
+          },
+          {
+            "_": "Greek",
+            "$": {
+              "id": "GRK",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GRK.xml"
+            }
+          },
+          {
+            "_": "Modern Greek",
+            "$": {
+              "id": "GRKM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GRKM.xml"
+            }
+          },
+          {
+            "_": "General Studies",
+            "$": {
+              "id": "GS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GS.xml"
+            }
+          },
+          {
+            "_": "Gender and Women's Studies",
+            "$": {
+              "id": "GWS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/GWS.xml"
+            }
+          },
+          {
+            "_": "Human Development and Family Studies",
+            "$": {
+              "id": "HDFS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HDFS.xml"
+            }
+          },
+          {
+            "_": "Hebrew, Modern and Classical",
+            "$": {
+              "id": "HEBR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HEBR.xml"
+            }
+          },
+          {
+            "_": "History",
+            "$": {
+              "id": "HIST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HIST.xml"
+            }
+          },
+          {
+            "_": "Hindi",
+            "$": {
+              "id": "HNDI",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HNDI.xml"
+            }
+          },
+          {
+            "_": "Horticulture",
+            "$": {
+              "id": "HORT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HORT.xml"
+            }
+          },
+          {
+            "_": "Human Resource Development",
+            "$": {
+              "id": "HRD",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HRD.xml"
+            }
+          },
+          {
+            "_": "Humanities Courses",
+            "$": {
+              "id": "HUM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/HUM.xml"
+            }
+          },
+          {
+            "_": "Integrative Biology",
+            "$": {
+              "id": "IB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/IB.xml"
+            }
+          },
+          {
+            "_": "Industrial Engineering",
+            "$": {
+              "id": "IE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/IE.xml"
+            }
+          },
+          {
+            "_": "i-Health Program",
+            "$": {
+              "id": "IHLT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/IHLT.xml"
+            }
+          },
+          {
+            "_": "Informatics",
+            "$": {
+              "id": "INFO",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/INFO.xml"
+            }
+          },
+          {
+            "_": "Information Sciences",
+            "$": {
+              "id": "IS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/IS.xml"
+            }
+          },
+          {
+            "_": "Italian",
+            "$": {
+              "id": "ITAL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ITAL.xml"
+            }
+          },
+          {
+            "_": "Japanese",
+            "$": {
+              "id": "JAPN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/JAPN.xml"
+            }
+          },
+          {
+            "_": "Journalism",
+            "$": {
+              "id": "JOUR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/JOUR.xml"
+            }
+          },
+          {
+            "_": "Jewish Studies",
+            "$": {
+              "id": "JS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/JS.xml"
+            }
+          },
+          {
+            "_": "Kinesiology",
+            "$": {
+              "id": "KIN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/KIN.xml"
+            }
+          },
+          {
+            "_": "Korean",
+            "$": {
+              "id": "KOR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/KOR.xml"
+            }
+          },
+          {
+            "_": "Landscape Architecture",
+            "$": {
+              "id": "LA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LA.xml"
+            }
+          },
+          {
+            "_": "Liberal Arts and Sciences",
+            "$": {
+              "id": "LAS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LAS.xml"
+            }
+          },
+          {
+            "_": "Latin American and Caribbean Studies",
+            "$": {
+              "id": "LAST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LAST.xml"
+            }
+          },
+          {
+            "_": "Latin",
+            "$": {
+              "id": "LAT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LAT.xml"
+            }
+          },
+          {
+            "_": "Law",
+            "$": {
+              "id": "LAW",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LAW.xml"
+            }
+          },
+          {
+            "_": "Labor and Employment Relations",
+            "$": {
+              "id": "LER",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LER.xml"
+            }
+          },
+          {
+            "_": "Linguistics",
+            "$": {
+              "id": "LING",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LING.xml"
+            }
+          },
+          {
+            "_": "Latina/Latino Studies",
+            "$": {
+              "id": "LLS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/LLS.xml"
+            }
+          },
+          {
+            "_": "Media and Cinema Studies",
+            "$": {
+              "id": "MACS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MACS.xml"
+            }
+          },
+          {
+            "_": "Mathematics",
+            "$": {
+              "id": "MATH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MATH.xml"
+            }
+          },
+          {
+            "_": "Regular MBA Program Administration",
+            "$": {
+              "id": "MBA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MBA.xml"
+            }
+          },
+          {
+            "_": "Molecular and Cell Biology",
+            "$": {
+              "id": "MCB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MCB.xml"
+            }
+          },
+          {
+            "_": "Media",
+            "$": {
+              "id": "MDIA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MDIA.xml"
+            }
+          },
+          {
+            "_": "Medieval Studies",
+            "$": {
+              "id": "MDVL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MDVL.xml"
+            }
+          },
+          {
+            "_": "Mechanical Engineering",
+            "$": {
+              "id": "ME",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/ME.xml"
+            }
+          },
+          {
+            "_": "Microbiology",
+            "$": {
+              "id": "MICR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MICR.xml"
+            }
+          },
+          {
+            "_": "Military Science",
+            "$": {
+              "id": "MILS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MILS.xml"
+            }
+          },
+          {
+            "_": "Molecular and Integrative Physiology",
+            "$": {
+              "id": "MIP",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MIP.xml"
+            }
+          },
+          {
+            "_": "Materials Science and Engineering",
+            "$": {
+              "id": "MSE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MSE.xml"
+            }
+          },
+          {
+            "_": "Music",
+            "$": {
+              "id": "MUS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MUS.xml"
+            }
+          },
+          {
+            "_": "Museum Studies",
+            "$": {
+              "id": "MUSE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/MUSE.xml"
+            }
+          },
+          {
+            "_": "Neuroscience",
+            "$": {
+              "id": "NEUR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/NEUR.xml"
+            }
+          },
+          {
+            "_": "Nuclear, Plasma, and Radiological Engineering",
+            "$": {
+              "id": "NPRE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/NPRE.xml"
+            }
+          },
+          {
+            "_": "Natural Resources and Environmental Sciences",
+            "$": {
+              "id": "NRES",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/NRES.xml"
+            }
+          },
+          {
+            "_": "Naval Science",
+            "$": {
+              "id": "NS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/NS.xml"
+            }
+          },
+          {
+            "_": "Nutritional Sciences",
+            "$": {
+              "id": "NUTR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/NUTR.xml"
+            }
+          },
+          {
+            "_": "Pathobiology",
+            "$": {
+              "id": "PATH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PATH.xml"
+            }
+          },
+          {
+            "_": "Plant Biology",
+            "$": {
+              "id": "PBIO",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PBIO.xml"
+            }
+          },
+          {
+            "_": "Persian",
+            "$": {
+              "id": "PERS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PERS.xml"
+            }
+          },
+          {
+            "_": "Philosophy",
+            "$": {
+              "id": "PHIL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PHIL.xml"
+            }
+          },
+          {
+            "_": "Physics",
+            "$": {
+              "id": "PHYS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PHYS.xml"
+            }
+          },
+          {
+            "_": "Plant Pathology",
+            "$": {
+              "id": "PLPA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PLPA.xml"
+            }
+          },
+          {
+            "_": "Polish",
+            "$": {
+              "id": "POL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/POL.xml"
+            }
+          },
+          {
+            "_": "Portuguese",
+            "$": {
+              "id": "PORT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PORT.xml"
+            }
+          },
+          {
+            "_": "Political Science",
+            "$": {
+              "id": "PS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PS.xml"
+            }
+          },
+          {
+            "_": "Professional Science Master's Program",
+            "$": {
+              "id": "PSM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PSM.xml"
+            }
+          },
+          {
+            "_": "Psychology",
+            "$": {
+              "id": "PSYC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/PSYC.xml"
+            }
+          },
+          {
+            "_": "Russian, East European and Eurasian Studies",
+            "$": {
+              "id": "REES",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/REES.xml"
+            }
+          },
+          {
+            "_": "Rehabilitation Counseling",
+            "$": {
+              "id": "REHB",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/REHB.xml"
+            }
+          },
+          {
+            "_": "Religion",
+            "$": {
+              "id": "REL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/REL.xml"
+            }
+          },
+          {
+            "_": "Rhetoric and Composition",
+            "$": {
+              "id": "RHET",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/RHET.xml"
+            }
+          },
+          {
+            "_": "Rural Sociology",
+            "$": {
+              "id": "RSOC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/RSOC.xml"
+            }
+          },
+          {
+            "_": "Recreation, Sport, and Tourism",
+            "$": {
+              "id": "RST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/RST.xml"
+            }
+          },
+          {
+            "_": "Russian",
+            "$": {
+              "id": "RUSS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/RUSS.xml"
+            }
+          },
+          {
+            "_": "South Asian and Middle Eastern Studies",
+            "$": {
+              "id": "SAME",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SAME.xml"
+            }
+          },
+          {
+            "_": "Strategic Brand Communication",
+            "$": {
+              "id": "SBC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SBC.xml"
+            }
+          },
+          {
+            "_": "Scandinavian",
+            "$": {
+              "id": "SCAN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SCAN.xml"
+            }
+          },
+          {
+            "_": "Systems Engineering and Design",
+            "$": {
+              "id": "SE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SE.xml"
+            }
+          },
+          {
+            "_": "Speech and Hearing Science",
+            "$": {
+              "id": "SHS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SHS.xml"
+            }
+          },
+          {
+            "_": "Slavic",
+            "$": {
+              "id": "SLAV",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SLAV.xml"
+            }
+          },
+          {
+            "_": "Literatures, Cultures, and Linguistics",
+            "$": {
+              "id": "SLCL",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SLCL.xml"
+            }
+          },
+          {
+            "_": "Second Language Studies",
+            "$": {
+              "id": "SLS",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SLS.xml"
+            }
+          },
+          {
+            "_": "Sociology",
+            "$": {
+              "id": "SOC",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SOC.xml"
+            }
+          },
+          {
+            "_": "Social Work",
+            "$": {
+              "id": "SOCW",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SOCW.xml"
+            }
+          },
+          {
+            "_": "Spanish",
+            "$": {
+              "id": "SPAN",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SPAN.xml"
+            }
+          },
+          {
+            "_": "Special Education",
+            "$": {
+              "id": "SPED",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SPED.xml"
+            }
+          },
+          {
+            "_": "Statistics",
+            "$": {
+              "id": "STAT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/STAT.xml"
+            }
+          },
+          {
+            "_": "Swahili",
+            "$": {
+              "id": "SWAH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/SWAH.xml"
+            }
+          },
+          {
+            "_": "Theoretical and Applied Mechanics",
+            "$": {
+              "id": "TAM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TAM.xml"
+            }
+          },
+          {
+            "_": "Technology Entrepreneurship",
+            "$": {
+              "id": "TE",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TE.xml"
+            }
+          },
+          {
+            "_": "Theatre",
+            "$": {
+              "id": "THEA",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/THEA.xml"
+            }
+          },
+          {
+            "_": "Technology and Management Courses",
+            "$": {
+              "id": "TMGT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TMGT.xml"
+            }
+          },
+          {
+            "_": "Translation Studies",
+            "$": {
+              "id": "TRST",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TRST.xml"
+            }
+          },
+          {
+            "_": "Technical Systems Management",
+            "$": {
+              "id": "TSM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TSM.xml"
+            }
+          },
+          {
+            "_": "Turkish",
+            "$": {
+              "id": "TURK",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/TURK.xml"
+            }
+          },
+          {
+            "_": "Ukrainian",
+            "$": {
+              "id": "UKR",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/UKR.xml"
+            }
+          },
+          {
+            "_": "Urban and Regional Planning",
+            "$": {
+              "id": "UP",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/UP.xml"
+            }
+          },
+          {
+            "_": "Veterinary Clinical Medicine",
+            "$": {
+              "id": "VCM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/VCM.xml"
+            }
+          },
+          {
+            "_": "Veterinary Medicine Courses",
+            "$": {
+              "id": "VM",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/VM.xml"
+            }
+          },
+          {
+            "_": "Wolof",
+            "$": {
+              "id": "WLOF",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/WLOF.xml"
+            }
+          },
+          {
+            "_": "Writing Studies",
+            "$": {
+              "id": "WRIT",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/WRIT.xml"
+            }
+          },
+          {
+            "_": "Yiddish",
+            "$": {
+              "id": "YDSH",
+              "href": "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall/YDSH.xml"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
