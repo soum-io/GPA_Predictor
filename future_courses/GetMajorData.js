@@ -4,6 +4,9 @@ By: Michael Shea
 In the Javascript file, we call the course explorer api to obtain majors of
 future courses in XML. The data is then converted into json and saved.
 */
+// fill these out to obtain desired data
+var year = 2018
+var semester = 'spring'
 
 var parseString = require('xml2js').parseString;
 var http = require('https');
@@ -48,12 +51,11 @@ function callback(err, data, path) {
 
     console.log(path + " was saved!");
   });
-  //console.log(JSON.stringify(data, null, 2)) ;
 }
 
-// url for the years data that you want. Simply update year if needed in the url
+// url for the year and semester data that you want. 
 
-var url1 = 'https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall.xml'
+var url1 = 'https://courses.illinois.edu/cisapp/explorer/catalog/' + year + '/' + semester + '.xml'
 
 // file path for data to go
 var filePath = __dirname+"/MajorData.json";

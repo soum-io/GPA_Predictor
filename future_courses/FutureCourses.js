@@ -14,7 +14,17 @@ var parseString = require('xml2js').parseString;
 var http = require('https');
 var fs = require('fs');
 
+//input current info for semester here:
+var year = 2018;
+var semester = "spring";
 
+if(semester === "spring"){
+  semester = 1;
+} else if (semester === "summer" ){
+  semester = 2;
+} else {
+  semester = 3;
+}
 // fucntion used is from http://antrikshy.com/blog/fetch-xml-url-convert-to-json-nodejs
 // pass in the url of a api request that will return XML data, and turn it into
 // a json file that will be saved locally given in the path parameter.
@@ -86,7 +96,7 @@ class Section{
 }}
 
 // create new file for future course data, and initialize it with feature labels
-fs.writeFile("./course_teacher.csv", "course,teacher,year,years taught,gpa\n",function(err){
+fs.writeFile("./course_teacher.csv", "course,teacher,year,semester,semesters taught\n",function(err){
   if(err){throw err;}
 })
 
@@ -112,7 +122,7 @@ fs.open('./course_teacher.csv', 'a', 666, function( err, id ) {
                 // only use lecture sections
                 if(section.professor != 'N/A' && section.type.includes("Lecture")){
                   // the (9.0+2.0/3.0) is the current year for fall 2018. Change if needed for other years
-                  var to_write = section.shortAbr + ',"' +section.professor+'",'+(9.0+2.0/3.0).toString() +'\n'
+                  var to_write = section.shortAbr + ',"' +section.professor+'",'+(year).toString() + ',' + semester.toString() + '\n'
                   fs.write( id, to_write, null, 'utf8', function(){})
                 }
               }
